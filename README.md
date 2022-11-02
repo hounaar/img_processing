@@ -16,6 +16,13 @@ First we need to learn about the important img processing modules including:
     <li>Tkinter</li>
   </ul>  
 In this document we use <b>Tkinter</b>, <b>Numpy</b>, <b>PIL</b>. Therefore, by importing these modules such the ones below, we can use the main points of these libraries.
+However we need to install them first:
+```
+pip install numpy
+pip install tk
+pip install pillow
+
+```
 
 ```python
 import tkinter as tk
