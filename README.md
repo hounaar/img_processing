@@ -61,7 +61,7 @@ Now by running the code, the windows will open
 
 <img src="https://hounaar.com/github/img_processing/2.jpg">
 
-You can see the full video here below
+
 
 
 
