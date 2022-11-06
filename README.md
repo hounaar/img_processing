@@ -63,7 +63,7 @@ Now by running the code, the windows will open
 
 You can see the full video here below
 
-![](https://hounaar.com/github/img_processing/main.gif) 
+
 
 
 
